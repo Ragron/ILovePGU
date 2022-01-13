@@ -1,0 +1,3 @@
+﻿  lab2 zad2.cpp
+C:\Users\volkv\OneDrive\Рабочий стол\Лиоа\Logic 1\Lab 2\lab2 zad2\lab2 zad2\lab2 zad2.cpp(71,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab2 zad2.vcxproj -> C:\Users\volkv\OneDrive\Рабочий стол\Лиоа\Logic 1\Lab 2\lab2 zad2\Debug\lab2 zad2.exe

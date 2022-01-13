@@ -1,0 +1,9 @@
+﻿  lab2.cpp
+C:\Users\volkv\OneDrive\Рабочий стол\Лиоа\Logic 1\Lab 2\lab2\lab2\lab2.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\volkv\OneDrive\Рабочий стол\Лиоа\Logic 1\Lab 2\lab2\lab2\lab2.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\volkv\OneDrive\Рабочий стол\Лиоа\Logic 1\Lab 2\lab2\lab2\lab2.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\volkv\OneDrive\Рабочий стол\Лиоа\Logic 1\Lab 2\lab2\lab2\lab2.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\volkv\OneDrive\Рабочий стол\Лиоа\Logic 1\Lab 2\lab2\lab2\lab2.cpp(13,23): warning C4244: инициализация: преобразование "clock_t" в "short", возможна потеря данных
+C:\Users\volkv\OneDrive\Рабочий стол\Лиоа\Logic 1\Lab 2\lab2\lab2\lab2.cpp(25,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\volkv\OneDrive\Рабочий стол\Лиоа\Logic 1\Lab 2\lab2\lab2\lab2.cpp(48,21): warning C4244: инициализация: преобразование "clock_t" в "short", возможна потеря данных
+  lab2.vcxproj -> C:\Users\volkv\OneDrive\Рабочий стол\Лиоа\Logic 1\Lab 2\lab2\Debug\lab2.exe
