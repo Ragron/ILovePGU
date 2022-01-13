@@ -1,0 +1,4 @@
+﻿  lab8.cpp
+C:\Users\volkv\OneDrive\Рабочий стол\Лиоа\Logic 1\lab8\lab8\lab8\lab8.cpp(30,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\volkv\OneDrive\Рабочий стол\Лиоа\Logic 1\lab8\lab8\lab8\lab8.cpp(32,6): warning C4101: v: неиспользованная локальная переменная
+  lab8.vcxproj -> C:\Users\volkv\OneDrive\Рабочий стол\Лиоа\Logic 1\lab8\lab8\Debug\lab8.exe
